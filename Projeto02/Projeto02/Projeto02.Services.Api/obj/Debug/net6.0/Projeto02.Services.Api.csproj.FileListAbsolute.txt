@@ -1,0 +1,192 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\ref\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\scopedcss\bundle\Projeto02.Services.Api.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\ref\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Bogus.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Flunt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\ref\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Bogus.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Flunt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\scopedcss\bundle\Projeto02.Services.Api.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\ref\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 04 - 11.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\ref\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Projeto02.Services.Api.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Bogus.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Flunt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\scopedcss\bundle\Projeto02.Services.Api.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\ref\Projeto02.Services.Api.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper Avançado SQS Noite\Aula 05 - 13.07.2022\Projeto02\Projeto02.Services.Api\obj\Debug\net6.0\Projeto02.Services.Api.genruntimeconfig.cache
